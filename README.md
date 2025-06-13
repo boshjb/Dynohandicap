@@ -1,2 +1,3 @@
-# Dynohandicap
-Analyse approfondie puriste et affûtée de courses hippiques 
+# DynoHandicap
+
+Système prédictif adaptatif pour courses hippiques.

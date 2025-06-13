@@ -1,0 +1,1 @@
+# Détection automatique de cas-type
